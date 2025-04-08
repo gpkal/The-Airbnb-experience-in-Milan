@@ -14,7 +14,7 @@ The analysis is based on two datasets from Inside Airbnb:
 
 ## Visualizations
 
-The dashboard is available on [Tableau Public]([URL](https://public.tableau.com/views/TheAirbnbexperienceinMilan/StoryVisualization?:language=it-IT&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+The dashboard is available on [Tableau Public](https://public.tableau.com/views/TheAirbnbexperienceinMilan/StoryVisualization?:language=it-IT&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 ---
 
